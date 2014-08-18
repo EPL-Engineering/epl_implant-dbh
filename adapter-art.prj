@@ -1,0 +1,4 @@
+elements-dir ./foot
+schematics adapter.sch
+output-name adapter-art
+gsch2pcb:use-m4:            yes
