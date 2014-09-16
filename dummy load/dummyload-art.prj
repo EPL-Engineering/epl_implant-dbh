@@ -1,0 +1,3 @@
+elements-dir ./foot
+schematics dummyload.sch
+output-name dummyload-art
