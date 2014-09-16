@@ -778,8 +778,6 @@ T 54900 59900 5 10 0 0 0 6 1
 device=CONNECTOR_8
 T 55000 59700 5 10 1 1 0 6 1
 refdes=CONN1103
-T 55000 59300 5 10 1 1 0 6 1
-comment=This is just solder pads.
 T 55000 59500 5 10 1 1 0 6 1
-footprint=HEADER8_1
+footprint=headboard-i2s-vertical
 }

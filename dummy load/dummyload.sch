@@ -269,17 +269,17 @@ T 67900 56200 5 10 1 1 0 0 1
 netname=CHASSIS:1
 }
 T 77000 40100 9 10 1 0 0 0 1
-10
+1
 T 78500 40100 9 10 1 0 0 0 1
-13
+1
 T 80900 40100 9 10 1 0 0 0 1
 Evan Foss
 T 80800 40400 9 10 1 0 0 0 1
 V 1.0
 T 76900 40400 9 10 1 0 0 0 1
-headbreakout.sch
+dummyload.sch
 T 77000 40700 9 10 1 0 0 0 1
-Head Microphone Breakout
+Dummy Load & Microphone Breakout
 N 76700 67000 78500 67000 4
 {
 T 77200 67100 5 10 1 1 0 0 1
@@ -697,9 +697,9 @@ T 56600 56200 5 10 1 1 0 3 1
 footprint=S1751-46R
 }
 N 56600 55700 56600 54900 4
-C 54800 54300 1 0 0 bus-count.sym
+C 60200 54300 1 0 0 bus-count.sym
 {
-T 55600 54500 5 10 1 1 0 8 1
+T 61000 54500 5 10 1 1 0 8 1
 comment=4
 }
 C 70000 56800 1 0 0 testpt-1.sym

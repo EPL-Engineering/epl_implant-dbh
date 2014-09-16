@@ -1,7 +1,7 @@
 G04 start of page 9 for group -4078 idx -4078 *
 G04 Title: (unknown), bottomsilk *
 G04 Creator: pcb 20110918 *
-G04 CreationDate: Mon Sep 15 22:10:26 2014 UTC *
+G04 CreationDate: Tue Sep 16 15:41:33 2014 UTC *
 G04 For: fosse *
 G04 Format: Gerber/RS-274X *
 G04 PCB-Dimensions: 375000 325000 *
@@ -9,8 +9,8 @@ G04 PCB-Coordinate-Origin: lower left *
 %MOIN*%
 %FSLAX25Y25*%
 %LNBOTTOMSILK*%
-%ADD185C,0.0100*%
-G54D185*X78567Y252598D02*X82897Y248268D01*
+%ADD63C,0.0100*%
+G54D63*X78567Y252598D02*X82897Y248268D01*
 X135495D01*
 X139826Y252598D01*
 Y271732D01*

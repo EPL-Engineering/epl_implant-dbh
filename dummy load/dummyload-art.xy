@@ -1,0 +1,37 @@
+# $Id$
+# PcbXY Version 1.0
+# Date: Tue Sep 16 15:41:41 2014 UTC
+# Author: 
+# Title: (unknown) - PCB X-Y
+# RefDes, Description, Value, X, Y, rotation, top/bottom
+# X,Y in mil.  rotation in degrees.
+# --------------------------------------------
+TPGND,"S1751-46R","unknown",1964.43,1337.75,0,top
+TP3V3,"S1751-46R","unknown",1964.43,2147.75,0,top
+TPMICEN,"S1751-46R","unknown",1964.43,1947.75,0,top
+TPI2SSD,"S1751-46R","unknown",1964.43,1747.75,0,top
+TPI2SWS,"S1751-46R","unknown",1964.43,1547.75,0,top
+CONN1103,"headboard-i2s-vertical","unknown",2244.44,1897.75,180,top
+TPSCK,"S1751-46R","unknown",1964.43,2347.75,0,top
+TPCHASSIS,"S1751-46R","unknown",1314.43,2257.75,0,top
+TPNRESET,"S1751-46R","unknown",1624.43,2257.75,0,top
+TP_CH8N,"S1751-46R","unknown",524.43,2027.75,0,top
+TP_CH7N,"S1751-46R","unknown",224.63,2027.55,0,top
+TP_CH6N,"S1751-46R","unknown",524.63,1827.55,0,top
+TP_CH5N,"S1751-46R","unknown",224.44,1827.75,0,top
+TP_CH4N,"S1751-46R","unknown",524.43,1627.75,0,top
+TP_CH3N,"S1751-46R","unknown",224.63,1627.55,0,top
+TP_CH2N,"S1751-46R","unknown",524.43,1427.75,0,top
+TP_CH1N,"S1751-46R","unknown",224.44,1327.75,0,top
+TP_CH5P,"S1751-46R","unknown",1624.43,1827.75,0,top
+TP_CH4P,"S1751-46R","unknown",1324.63,1627.55,0,top
+TP_CH3P,"S1751-46R","unknown",1624.63,1627.55,0,top
+TP_CH2P,"S1751-46R","unknown",1324.63,1427.55,0,top
+TP_CH1P,"S1751-46R","unknown",1624.63,1327.55,0,top
+TP_CH8P,"S1751-46R","unknown",1324.63,2027.55,0,top
+TP_CH7P,"S1751-46R","unknown",1624.43,2027.75,0,top
+TP_CH6P,"S1751-46R","unknown",1324.63,1827.55,0,top
+RP1,"DIP16","2.7K",974.44,1677.75,90,top
+SCREW4-40_3,"screw-num4-close_fit-lockwasher","unknown",1090.00,3030.00,0,top
+TP1V8,"S1751-46R","unknown",2244.43,1337.75,0,top
+CONN1000,"panasonic-AXN430330P","unknown",1089.81,2606.90,0,bottom

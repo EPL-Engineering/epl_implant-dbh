@@ -1,0 +1,12 @@
+# $Id$
+# PcbBOM Version 1.0
+# Date: Tue Sep 16 15:41:41 2014 UTC
+# Author: 
+# Title: (unknown) - PCB BOM
+# Quantity, Description, Value, RefDes
+# --------------------------------------------
+25,"S1751-46R","unknown",TPGND TP3V3 TPMICEN TPI2SSD TPI2SWS TPSCK TPCHASSIS TPNRESET TP_CH8N TP_CH7N TP_CH6N TP_CH5N TP_CH4N TP_CH3N TP_CH2N TP_CH1N TP_CH5P TP_CH4P TP_CH3P TP_CH2P TP_CH1P TP_CH8P TP_CH7P TP_CH6P TP1V8 
+1,"headboard-i2s-vertical","unknown",CONN1103 
+1,"DIP16","2.7K",RP1 
+1,"screw-num4-close_fit-lockwasher","unknown",SCREW4-40_3 
+1,"panasonic-AXN430330P","unknown",CONN1000 
