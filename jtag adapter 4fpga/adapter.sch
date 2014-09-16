@@ -300,7 +300,7 @@ T 77000 40100 15 8 1 0 0 0 1
 T 77000 40700 15 8 1 0 0 0 1
 JTAG Adapter for UTD/EPL Main Board
 T 76900 40400 15 8 1 0 0 0 1
-Adapter.sch
+adapter.sch
 U 71300 50000 71300 55000 10 0
 C 71500 53700 1 90 1 busripper-1.sym
 {

@@ -981,32 +981,32 @@ device=TESTPOINT
 T 47500 63200 5 10 1 1 0 3 1
 refdes=hole1
 T 47500 63000 5 10 1 1 0 3 1
-footprint=S1751-46R
+footprint=screw-num4-loose_fit-lockwasher
 }
-C 48600 63000 1 0 1 testpt-1.sym
+C 48600 63700 1 0 1 testpt-1.sym
 {
-T 48200 63900 5 10 0 0 0 6 1
+T 48200 64600 5 10 0 0 0 6 1
 device=TESTPOINT
-T 48500 63700 5 10 1 1 0 3 1
+T 48500 64400 5 10 1 1 0 3 1
 refdes=hole2
-T 48500 63500 5 10 1 1 0 3 1
-footprint=S1751-46R
+T 48500 64200 5 10 1 1 0 3 1
+footprint=screw-num4-loose_fit-lockwasher
 }
-C 49600 62500 1 0 1 testpt-1.sym
+C 50600 62500 1 0 1 testpt-1.sym
 {
-T 49200 63400 5 10 0 0 0 6 1
+T 50200 63400 5 10 0 0 0 6 1
 device=TESTPOINT
-T 49500 63200 5 10 1 1 0 3 1
+T 50500 63200 5 10 1 1 0 3 1
 refdes=hole3
-T 49500 63000 5 10 1 1 0 3 1
-footprint=S1751-46R
+T 50500 63000 5 10 1 1 0 3 1
+footprint=screw-num4-loose_fit-lockwasher
 }
-C 50600 63000 1 0 1 testpt-1.sym
+C 51600 63700 1 0 1 testpt-1.sym
 {
-T 50200 63900 5 10 0 0 0 6 1
+T 51200 64600 5 10 0 0 0 6 1
 device=TESTPOINT
-T 50500 63700 5 10 1 1 0 3 1
+T 51500 64400 5 10 1 1 0 3 1
 refdes=hole4
-T 50500 63500 5 10 1 1 0 3 1
-footprint=S1751-46R
+T 51500 64200 5 10 1 1 0 3 1
+footprint=screw-num4-loose_fit-lockwasher
 }

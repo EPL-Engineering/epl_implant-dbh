@@ -516,3 +516,14 @@ refdes=hole4
 T 60000 57200 5 10 1 1 0 3 1
 footprint=screw-num4-loose_fit-lockwasher
 }
+C 75400 53500 1 0 1 testpt-1.sym
+{
+T 75000 54400 5 10 0 0 0 6 1
+device=TESTPOINT
+T 75300 54200 5 10 1 1 0 3 1
+refdes=TP1GND
+T 75300 54000 5 10 1 1 0 3 1
+footprint=S1751-46R
+}
+N 75300 53500 75300 52800 4
+N 75300 52800 74500 52800 4
